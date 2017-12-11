@@ -4,3 +4,4 @@
 - https://www.youtube.com/watch?v=mH9TEXhmmwc[YouTube: Testing Java Microservices]
 - http://shop.oreilly.com/product/0636920033158.do[Building Microservices - Sam Newman]
 - https://martinfowler.com/articles/microservice-testing/[Testing Strategies in Microservice Architecture]
+https://www.youtube.com/watch?v=mH9TEXhmmwc
